@@ -1,0 +1,35 @@
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe.config
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.pdb
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Form1.resources
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Properties.Resources.resources
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csproj.GenerateResource.Cache
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.exe
+d:\userdata\monagano\my documents\visual studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.pdb
+D:\userdata\monagano\My Documents\Visual Studio 2012\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csprojResolveAssemblyReference.cache
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe.config
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.exe
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.pdb
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.pdb
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csprojResolveAssemblyReference.cache
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Form1.resources
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Properties.Resources.resources
+C:\Users\-\Desktop\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csproj.GenerateResource.Cache
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe.config
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.exe
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.pdb
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.pdb
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Form1.resources
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Properties.Resources.resources
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csproj.GenerateResource.Cache
+C:\Users\nagano\Desktop\factory\omotikaeri\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csproj.CoreCompileInputs.cache
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.exe
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\bin\Debug\MyShortcutsHelper.pdb
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Form1.resources
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.Properties.Resources.resources
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csproj.GenerateResource.Cache
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.csproj.CoreCompileInputs.cache
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.exe
+C:\Users\nagano\Desktop\factory\Projects\MyShortcutsHelper\MyShortcutsHelper\obj\Debug\MyShortcutsHelper.pdb
